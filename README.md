@@ -11,4 +11,7 @@ This project is a work in progress at the moment, but the goal is to analyze a l
 - Using strictly audio data, what features make a song a 'hit'?
 - Can we create a model that can accurately predict whether a new song will be a 'hit'?
 
+<<<<<<< HEAD
 Stay tuned!
+=======
+>>>>>>> 4bea7ca1c287aae5225f6843d817514e10e175d2
