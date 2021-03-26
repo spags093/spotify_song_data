@@ -3,6 +3,9 @@
 <center><img src="images/spotify logo.png" alt="spotify logo"></center>
   
  
+<h5>Note:</h5> This project is a work in progress and we are currently in the process of expanding on the concept.  This README will be updated as the project is updated.  Thanks! 
+ 
+ 
 ## Introduction
 Spotify has emerged as the largest and most popular platform for streaming music in the world.  With millions of songs available as well as millions of users streaming them, Spotify is able to amass a huge amount of relevant music data and is generous enough to share this data through their Spotfy for Developers program.  With background as both a musician and a music industry professional, there is a giant curiosity about whether we can use machine learning to answer questions that have long eluded the entier industry, especially "What makes a hit?"
 
